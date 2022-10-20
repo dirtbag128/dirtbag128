@@ -17,6 +17,6 @@ html {
 	        scroll-behavior: smooth;
   	}
 body {
-  height: 300px; /* Used to enable scrolling */
+  height: 1000px; /* Used to enable scrolling */
   background: linear-gradient(55deg,#63ab69 0%, #69c2ba 51%, #245f96 85%);
 }
