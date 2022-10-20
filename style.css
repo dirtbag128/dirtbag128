@@ -11,3 +11,8 @@
 		background-color: lightskyblue;
 		text-align: center;
 	}
+
+html {
+
+	        scroll-behavior: smooth;
+  	}
