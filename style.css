@@ -4,6 +4,10 @@
 		font-size: 80px;
 		color: seagreen;
 		font:oblique;
+		text-shadow: -1px 1px 0 #000,
+                              1px 1px 0 #000,
+                             1px -1px 0 #000,
+                            -1px -1px 0 #000;
 	}
 
 	
