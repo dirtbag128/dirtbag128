@@ -10,7 +10,10 @@
                             -1px -1px 0 #000;
 	}
 
-	
+#ag{
+		width:560px;
+		height:315px;
+	}	
 #bdy{
 		background-color: lightskyblue;
 		text-align: center;
