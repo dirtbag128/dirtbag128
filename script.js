@@ -1,4 +1,4 @@
-alertify.alert("🌟!!Happy Birthday!!🌟")
-alertify.alert("I don't know much nonsense..........")
-alertify.alert("So enjoy the day 😁.")
-alertify.alert("You are getting old :))")
+alert("🌟!!Happy Birthday!!🌟")
+alert("I don't know much nonsense..........")
+alert("So enjoy the day 😁.")
+alert("You are getting old :))")
