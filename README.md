@@ -14,7 +14,7 @@
 
 # Hi there! I'm Satvik 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+New+Things;)](YOUR_LINK)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+New+Things;Create+New+Things;Be+a+better+Me;)](YOUR_LINK)
 
 </div>
 
