@@ -151,5 +151,5 @@ mindmap
 </div>
 
 ```
-                      Keep Coding! 🚀
+                  Never Give Up !
 ```
