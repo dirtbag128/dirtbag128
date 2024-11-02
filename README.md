@@ -106,7 +106,7 @@ mindmap
 
 ### 👀 Profile Views
 
-![Visitors](https://komarev.com/ghpvc/?username=dirtbag128&color=white)
+![Visitors](https://komarev.com/ghpvc/?username=dirtbag128&color=lightgrey)
 
 ### 🎵 Currently Listening To
 
