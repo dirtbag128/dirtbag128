@@ -55,11 +55,11 @@ me.say_hi()
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dirtbag128&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dirtbag128&show_icons=true&theme=transparent)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dirtbag128&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dirtbag128&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirtbag128&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirtbag128&layout=compact&theme=transparent)
 
 </div>
 
