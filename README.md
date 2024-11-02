@@ -20,20 +20,25 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Satvik Anand"
-        self.role = "Student & Developer"
-        self.languages = ["Python", "JavaScript", "Rust"]
-        self.interests = ["Web Development", "AI", "Open Source",""]
-        self.current_project = "Building something awesome!"
+```ruby
+class Developer
+  attr_accessor :name, :role, :languages, :interests, :current_project
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+  def initialize
+    @name = "Satvik Anand"
+    @role = "Student & Developer"
+    @languages = ["Python", "JavaScript", "Rust"]
+    @interests = ["Web Development", "AI", "Open Source"]
+    @current_project = "Building something awesome!"
+  end
 
-me = Developer()
-me.say_hi()
+  def say_hi
+    puts "Thanks for dropping by! Let's build something amazing together!"
+  end
+end
+
+me = Developer.new
+me.say_hi
 ```
 
 ## 🛠️ Tech Stack
