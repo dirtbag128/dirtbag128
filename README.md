@@ -72,17 +72,33 @@ NONE FOR NOW
 ```mermaid
 mindmap
   root((2024 Goals))
+    Complete Syllabus
+      Class 11
+        Physics
+        Chemistry
+        Biology
+        Mathematics
+      Olympiards
+        Biology
+        Chemistry
+        Astronomy
     Learn New Tech
-      Master React
+      Master Brian2
       Explore Web3
-      Cloud Computing
+      Cloud stuff
     Build Projects
       Portfolio Website
-      Mobile App
-      Open Source
+      Cinnamon & Diabetes
+      Notes
+      Radio-Stuff
+        Sonar
+        Radio Telescope
+        Crystal radio
     Soft Skills
-      Public Speaking
-      Technical Writing
+      Writing
+      better temper
+      intrapersonal skill development
+      interpersonal skill management
       Networking
 ```
 
