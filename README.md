@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-<img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FuYm54YmVvMXE4aG95OTIwZXpwcHkzYmhzdTR2dnIzaGJjZmZ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v6aOjy0Qo1fIA/giphy.gif" width="230">
 
 ```ruby
 class Developer
