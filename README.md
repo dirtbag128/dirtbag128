@@ -19,6 +19,8 @@
 
 ## 🚀 About Me
 
+<img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230">
+
 ```ruby
 class Developer
   attr_accessor :name, :role, :languages, :interests, :current_project
