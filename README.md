@@ -93,7 +93,7 @@ me.say_hi
 ## 💻 Coding Metrics
 
 <div align="center">
-<img src="https://metrics.lecoq.io/insights/dirtbag128" alt="Metrics" width="100%">
+![Metrics](https://metrics.lecoq.io/dirtbag128?template=classic&isocalendar=1&lines=1&habits=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta)
 </div>
 
 ## 🎯 Weekly Development Breakdown
