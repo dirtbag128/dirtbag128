@@ -29,7 +29,7 @@ class Developer
     @name = "Satvik Anand"
     @role = "Student & Developer"
     @languages = ["Python", "JavaScript", "Rust"]
-    @interests = ["Web Development", "AI", "Open Source"]
+    @interests = ["AI/ML", "Neuroscience", "Open Source"]
     @current_project = "Building something awesome!"
   end
 
@@ -51,11 +51,25 @@ me.say_hi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&style=for-the-badge&logo=rust&logoColor=white)
 
+### AI & Data Science Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
 ### Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%234B0082.svg?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -90,16 +104,17 @@ mindmap
         Astronomy
     Learn New Tech
       Master Brian2
-      Explore Web3
-      Cloud stuff
+      Deep Learning
+      Computer Vision
+      NLP
     Build Projects
       Portfolio Website
       Cinnamon & Diabetes
       Notes
-      Radio-Stuff
-        Sonar
-        Radio Telescope
-        Crystal radio
+      AI Projects
+        Neural Networks
+        Computer Vision
+        NLP Applications
     Soft Skills
       Writing
       better temper
@@ -131,8 +146,6 @@ mindmap
 
 ![Visitors](https://komarev.com/ghpvc/?username=dirtbag128&color=lightgrey)
 
-### 🎵 Currently Listening To
-
 ### 🎵 My Music Corner
 
 <div align="center">
@@ -148,8 +161,8 @@ mindmap
 <summary>✨ Fun Facts</summary>
 <br>
 
-- 🌱 I'm currently learning Brian2
-- 💬 Ask me about Moving out
+- 🌱 I'm currently learning Brian2 and Neural Networks
+- 💬 Ask me about AI and Neuroscience
 - ⚡ Fun fact: I am not fun
 - 🎮 When not coding: studying
 
