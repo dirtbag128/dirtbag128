@@ -86,7 +86,7 @@ me.say_hi
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![GithubTrophies](https://github-profile-trophy.vercel.app/?username=dirtbag128&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GithubTrophies](https://github-profile-trophy.vercel.app/?username=dirtbag128&theme=onedark&no-frame=true&no-bg=false&margin-w=10)
 
 </div>
 
