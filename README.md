@@ -83,6 +83,11 @@ me.say_hi
 
 </div>
 
+## 🏆 GitHub Trophies
+<div align="center">
+https://github-profile-trophy.vercel.app/?username=dirtbag128&theme=radical&no-frame=false&no-bg=true&margin-w=4
+</div>
+
 ## 💻 Coding Metrics
 
 <div align="center">
