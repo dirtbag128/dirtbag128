@@ -92,6 +92,8 @@ me.say_hi
 
 ## 🎯 Weekly Development Breakdown
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a054fce-8cfa-461c-8574-bc36e5332b85/deploy-status)](https://app.netlify.com/sites/s64s-to-do/deploys)
+
 <div align="center">
 
 <!--START_SECTION:waka-->
