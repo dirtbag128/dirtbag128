@@ -1,8 +1,6 @@
 name: GitHub Profile README Update
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
   push:
     branches: [ "main", "master" ]
   workflow_dispatch:
@@ -20,23 +18,20 @@ jobs:
       # Checkout repository
       - uses: actions/checkout@v4
       
-      # Setup Python for potential future use
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-          
       # Generate Snake Animation
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             
-      # Push to output branch
-      - uses: peaceiris/actions-gh-pages@v3
+      # Deploy to GitHub Pages
+      - name: Push to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3.9.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
@@ -44,9 +39,4 @@ jobs:
           force_orphan: true
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: '🐍 Update snake animation'
-
-      # Optional: Setup Node.js for potential future Waka Time stats
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+          commit_message: '🐍 Generate Snake Animation'
