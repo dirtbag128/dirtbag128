@@ -75,11 +75,11 @@ me.say_hi
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dirtbag128&show_icons=true&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=and262144&show_icons=true&theme=transparent)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dirtbag128&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=and262144&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirtbag128&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=and262144&layout=compact&theme=transparent)
 
 </div>
 
@@ -109,17 +109,13 @@ NONE FOR NOW
 
 ```mermaid
 mindmap
-  root((2024 Goals))
+  root((2025 Goals))
     Complete Syllabus
       Class 11
         Physics
         Chemistry
         Biology
         Mathematics
-      Olympiards
-        Biology
-        Chemistry
-        Astronomy
     Learn New Tech
       Master Brian2
       Deep Learning
@@ -134,7 +130,6 @@ mindmap
         Computer Vision
         NLP Applications
     Soft Skills
-      Writing
       better temper
       intrapersonal skill development
       interpersonal skill management
